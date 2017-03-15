@@ -6,6 +6,10 @@
 //  Copyright © 2017 Fabio Quintanilha. All rights reserved.
 //
 
+/* 
+ * This C program will read a Javascript program and give an statistic of different data.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
