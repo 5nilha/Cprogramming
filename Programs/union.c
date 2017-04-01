@@ -8,7 +8,7 @@ union employeesCard {
 	int id;
 } employee; 
 
-/* Using union, all data is stored in the same memory lacation */
+/* Using union, all data is stored in the same memory location */
 
 int main(){
 	strcpy(employee.name, "John-Teller");
