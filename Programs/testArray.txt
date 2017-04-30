@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main () {
+int myArray[12];
+myArray[12] = -1 ;
+
+printf("%i", myArray);
+}
